@@ -20,7 +20,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
  //   let num = req.query.number;
-    async function MALVIN_XD_PAIR_CODE() {
+    async function ICON-X MD_PAIR_CODE() {
         const {
             state,
             saveCreds
