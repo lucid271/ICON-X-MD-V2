@@ -77,7 +77,7 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "malvin~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, MALVIN-XD User!* 👋🏻
+                        let desc = `*Hey there, ICON-X MD User!* 👋🏻
 
 Thanks for using *ICON-X MD* — your session has been successfully created!
 
